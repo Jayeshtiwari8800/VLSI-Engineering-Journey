@@ -30,3 +30,7 @@ Pending circuit verification and measurements.
 
 ## Learning Outcome
 Pending completion of the experiment.
+
+## Corrected circuit
+
+![Corrected LED Circuit](../Screenshot%202026-11-13%20172555.png)
