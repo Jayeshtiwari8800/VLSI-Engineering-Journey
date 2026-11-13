@@ -16,7 +16,7 @@ To understand basic electronic circuit connections using Tinkercad Circuits.
 Tinkercad Circuits
 
 ## Circuit Diagram
-The circuit screenshot will be added here.
+![LED Circuit](../Screenshot%202026-11-13%20155932.png)
 
 ## Concepts
 - Breadboard connections
